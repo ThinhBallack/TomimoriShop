@@ -1,0 +1,15 @@
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\bin\Debug\TomimoriShop.Service.dll
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\bin\Debug\TomimoriShop.Service.pdb
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\bin\Debug\TomimoriShop.Common.dll
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\bin\Debug\TomimoriShop.Data.dll
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\bin\Debug\TomimoriShop.Model.dll
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\bin\Debug\TomimoriShop.Common.pdb
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\bin\Debug\TomimoriShop.Data.pdb
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\bin\Debug\TomimoriShop.Data.dll.config
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\bin\Debug\TomimoriShop.Model.pdb
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\bin\Debug\TomimoriShop.Model.dll.config
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\obj\Debug\TomimoriShop.Service.csprojAssemblyReference.cache
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\obj\Debug\TomimoriShop.Service.csproj.CoreCompileInputs.cache
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\obj\Debug\TomimoriShop.Service.csproj.CopyComplete
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\obj\Debug\TomimoriShop.Service.dll
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Service\obj\Debug\TomimoriShop.Service.pdb

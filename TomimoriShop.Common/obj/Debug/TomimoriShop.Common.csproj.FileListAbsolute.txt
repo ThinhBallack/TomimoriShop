@@ -1,0 +1,5 @@
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Common\bin\Debug\TomimoriShop.Common.dll
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Common\bin\Debug\TomimoriShop.Common.pdb
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Common\obj\Debug\TomimoriShop.Common.csproj.CoreCompileInputs.cache
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Common\obj\Debug\TomimoriShop.Common.dll
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Common\obj\Debug\TomimoriShop.Common.pdb

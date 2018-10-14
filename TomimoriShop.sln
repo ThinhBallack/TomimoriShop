@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomimoriShop.UnitTest", "TomimoriShop.UnitTest\TomimoriShop.UnitTest.csproj", "{55E12B68-FA4E-4E88-97A2-B6BA03F3987A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tomimori.Web", "Tomimori.Web\Tomimori.Web.csproj", "{FB02FC36-FB83-40FB-8037-966043BD5543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomimoriShop.Model", "TomimoriShop.Model\TomimoriShop.Model.csproj", "{1B100656-FB7B-4507-9A19-291A7522394E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomimoriShop.Data", "TomimoriShop.Data\TomimoriShop.Data.csproj", "{6A22B38B-E6BE-4981-8B14-CD5B2771A9FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomimoriShop.Service", "TomimoriShop.Service\TomimoriShop.Service.csproj", "{57D4DD6F-E761-4DE1-BB50-306FB6442FA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomimoriShop.Common", "TomimoriShop.Common\TomimoriShop.Common.csproj", "{861D98B6-16DB-4E42-B95A-D2DDDB0C5CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E12B68-FA4E-4E88-97A2-B6BA03F3987A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E12B68-FA4E-4E88-97A2-B6BA03F3987A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E12B68-FA4E-4E88-97A2-B6BA03F3987A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E12B68-FA4E-4E88-97A2-B6BA03F3987A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB02FC36-FB83-40FB-8037-966043BD5543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB02FC36-FB83-40FB-8037-966043BD5543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB02FC36-FB83-40FB-8037-966043BD5543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB02FC36-FB83-40FB-8037-966043BD5543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B100656-FB7B-4507-9A19-291A7522394E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B100656-FB7B-4507-9A19-291A7522394E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B100656-FB7B-4507-9A19-291A7522394E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B100656-FB7B-4507-9A19-291A7522394E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A22B38B-E6BE-4981-8B14-CD5B2771A9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A22B38B-E6BE-4981-8B14-CD5B2771A9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A22B38B-E6BE-4981-8B14-CD5B2771A9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A22B38B-E6BE-4981-8B14-CD5B2771A9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D4DD6F-E761-4DE1-BB50-306FB6442FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D4DD6F-E761-4DE1-BB50-306FB6442FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D4DD6F-E761-4DE1-BB50-306FB6442FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D4DD6F-E761-4DE1-BB50-306FB6442FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861D98B6-16DB-4E42-B95A-D2DDDB0C5CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861D98B6-16DB-4E42-B95A-D2DDDB0C5CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861D98B6-16DB-4E42-B95A-D2DDDB0C5CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861D98B6-16DB-4E42-B95A-D2DDDB0C5CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2886E1A1-24D0-4681-8B71-D6A9EAEA60E3}
+	EndGlobalSection
+EndGlobal

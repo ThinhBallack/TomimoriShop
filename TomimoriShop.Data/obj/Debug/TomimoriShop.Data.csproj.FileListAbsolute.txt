@@ -1,0 +1,14 @@
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\bin\Debug\TomimoriShop.Data.dll.config
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\bin\Debug\TomimoriShop.Data.dll
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\bin\Debug\TomimoriShop.Data.pdb
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\bin\Debug\EntityFramework.dll
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\bin\Debug\TomimoriShop.Common.dll
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\bin\Debug\TomimoriShop.Common.pdb
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\bin\Debug\EntityFramework.xml
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\obj\Debug\TomimoriShop.Data.csprojAssemblyReference.cache
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\obj\Debug\TomimoriShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\obj\Debug\TomimoriShop.Data.csproj.CopyComplete
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\obj\Debug\TomimoriShop.Data.dll
+C:\Users\ThinhBallack\source\repos\TomimoriShop\TomimoriShop.Data\obj\Debug\TomimoriShop.Data.pdb
